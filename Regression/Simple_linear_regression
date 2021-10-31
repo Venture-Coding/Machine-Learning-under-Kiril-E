@@ -1,2 +1,2 @@
-The dataset used contains the Salary data based on the profession. 
-Its a simple linear regression with single input variable X(profession) and continuous output variable y(Salary).
+The dataset used contains the Salary data based on the years of experience. 
+Its a simple linear regression with single input variable X(years of experience) and continuous output variable y(Salary).
