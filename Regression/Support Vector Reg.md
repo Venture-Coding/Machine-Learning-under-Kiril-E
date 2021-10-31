@@ -10,3 +10,8 @@ SVR has an inbuilt equation, with Epsilon Insensitive Tube, that overlooks error
 
 We are using the non-linear Gaussian RBF as a kernel. Other options also available. 
 <img width="582" alt="Screenshot 2021-10-31 at 4 26 06 PM" src="https://user-images.githubusercontent.com/61674750/139579530-b228c397-61ac-4396-9b06-e4dbb99c0165.png">
+
+
+Points to note :- 
+Poly Reg might overfit but treats outliers well and doesn't exclude any.
+SVR on the other hand ignores the extreme outliers, those that lie outside the epsilon tube
