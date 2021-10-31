@@ -1,1 +1,2 @@
-
+The dataset used contains the Salary data based on the profession. 
+Its a simple linear regression with single input variable X(profession) and continuous output variable y(Salary).
