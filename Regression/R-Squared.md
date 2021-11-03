@@ -8,4 +8,4 @@ We use the Coefficient of Determination denoted as R-square.
 In the first diagram, we've taken the difference of each value and the average of the total sample. Hence, it is the Sum of Squares of Difference of all values and their combined average.
 The second diagra, shows a line fit to the data, still having certain loss, on account of points not lying on it directly. The Sum of Squares of these Residuals, is SSR, also called as Sum of Squared Errors (SSE).
 
-So, the closer R-Squared is to 1, the better is our model.
+So, the closer R-Squared is to 1, the better is our model. It's the goodness of fit.
