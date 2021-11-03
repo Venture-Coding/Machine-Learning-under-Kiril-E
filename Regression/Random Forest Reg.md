@@ -13,3 +13,7 @@ Acceptability ? --> Significantly better than random guessing. Probability of ea
 Example : proves why probability of ensemble being wrong is significantly lesser.
 
 <img width="594" alt="Screenshot 2021-11-04 at 12 27 51 AM" src="https://user-images.githubusercontent.com/61674750/140175080-b23d552a-f6f0-426a-8e4a-7f8426e93648.png">
+
+
+Note : 
+  Bagging aka Bootstrapped Aggregating, is just a sampling technique, not specific to RF.
