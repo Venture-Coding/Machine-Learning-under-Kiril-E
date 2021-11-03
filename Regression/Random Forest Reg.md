@@ -27,5 +27,5 @@ Advantages :
     More the trees, more its stable. (Contrasts with other models where instability increases if complexity increase.)
     No need to keep train, test data separate.  Each tree has not seen some datapoints at all. So calculate Out Of Bag error.
     
-    <img width="680" alt="Screenshot 2021-11-04 at 12 40 44 AM" src="https://user-images.githubusercontent.com/61674750/140176865-da0d2c8a-b871-42c0-805a-45889ab42d2c.png">
+   <img width="680" alt="Screenshot 2021-11-04 at 12 40 44 AM" src="https://user-images.githubusercontent.com/61674750/140176865-da0d2c8a-b871-42c0-805a-45889ab42d2c.png">
 
