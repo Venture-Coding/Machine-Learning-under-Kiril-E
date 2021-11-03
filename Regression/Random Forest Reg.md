@@ -16,4 +16,4 @@ Example : proves why probability of ensemble being wrong is significantly lesser
 
 
 Note : 
-  Bagging aka Bootstrapped Aggregating, is just a sampling technique, not specific to RF.
+  Bagging aka Bootstrapping & Aggregating, is just a sampling technique, not specific to RF. Here it refers to bootstrapping samples from given data and feednig it to individual trees and then aggregating the output of all the indiv. models.
