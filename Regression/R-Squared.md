@@ -9,3 +9,5 @@ In the first diagram, we've taken the difference of each value and the average o
 The second diagra, shows a line fit to the data, still having certain loss, on account of points not lying on it directly. The Sum of Squares of these Residuals, is SSR, also called as Sum of Squared Errors (SSE).
 
 So, the closer R-Squared is to 1, the better is our model. It's the goodness of fit.
+
+Point to note: R-Square will never decrease with addition of more variables, it will only increase or stay the same (if the coeff. of new variable comes close to 0).
