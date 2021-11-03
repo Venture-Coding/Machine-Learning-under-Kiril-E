@@ -19,3 +19,13 @@ Note :
   Bagging aka Bootstrapping & Aggregating, is just a sampling technique, not specific to RF. Here it refers to bootstrapping samples from given data and feednig it to individual trees and then aggregating the output of all the indiv. models.
 
   The splitting here that happens at each node, is not based on all features, but rather on a random subset of features. That's because if there are some prominent features in the feature set, all trees might end up being more similar. Hence, better to have random subset of features to be used during each split, so that all trees dont end up with the similar structure.
+
+
+Advantages :
+    Immune to curse of dimensionality. 
+    Easily parallelised, saving time.
+    More the trees, more its stable. (Contrasts with other models where instability increases if complexity increase.)
+    No need to keep train, test data separate.  Each tree has not seen some datapoints at all. So calculate Out Of Bag error.
+    
+    <img width="680" alt="Screenshot 2021-11-04 at 12 40 44 AM" src="https://user-images.githubusercontent.com/61674750/140176865-da0d2c8a-b871-42c0-805a-45889ab42d2c.png">
+
