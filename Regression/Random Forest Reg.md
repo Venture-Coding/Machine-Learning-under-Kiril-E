@@ -25,7 +25,7 @@ Advantages :
     Immune to curse of dimensionality. 
     Easily parallelised, saving time.
     More the trees, more its stable. (Contrasts with other models where instability increases if complexity increase.)
-    No need to keep train, test data separate.  Each tree has not seen some datapoints at all. So calculate Out Of Bag error.
+    No need to keep train, test data separate.  Each tree has not seen some datapoints at all. So those datapoints become the test data for those trees. The output of majority of such trees is used to calculate the final decision of the model for that datapoint during testing. So calculate Out Of Bag error. The total wrong predictions out of all predictions give us the Out Of Bag error, which is more like a cross-validation error.
     
    <img width="680" alt="Screenshot 2021-11-04 at 12 40 44 AM" src="https://user-images.githubusercontent.com/61674750/140176865-da0d2c8a-b871-42c0-805a-45889ab42d2c.png">
 
