@@ -11,3 +11,9 @@ The second diagra, shows a line fit to the data, still having certain loss, on a
 So, the closer R-Squared is to 1, the better is our model. It's the goodness of fit.
 
 Point to note: R-Square will never decrease with addition of more variables, it will only increase or stay the same (if the coeff. of new variable comes close to 0).
+
+
+We also have a way to penalize unuseful variables, Adjusted R-Square is used. 
+So, we penalise such that if the new variable is insignificantly increasing the R-Squared value, then the penalisation will instead drag the Adjusted R-Square down.
+As shown below :
+<img width="526" alt="Screenshot 2021-11-03 at 5 23 39 PM" src="https://user-images.githubusercontent.com/61674750/140055379-355a59d9-ed55-4ce2-93fa-3ac453020036.png">
