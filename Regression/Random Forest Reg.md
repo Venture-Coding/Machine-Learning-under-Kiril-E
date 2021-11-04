@@ -18,7 +18,7 @@ Example : proves why probability of ensemble being wrong is significantly lesser
 Note : 
   Bagging aka Bootstrapping & Aggregating, is just a sampling technique, not specific to RF. Here it refers to bootstrapping samples from given data and feednig it to individual trees and then aggregating the output of all the indiv. models.
 
-  The splitting here that happens at each node, is not based on all features, but rather on a random subset of features. That's because if there are some prominent features in the feature set, all trees might end up being more similar. Hence, better to have random subset of features to be used during each split, so that all trees dont end up with the similar structure.
+  The splitting here that happens at each node, is not based on all features, but rather on a random subset of features(typically root of total no. of features). That's because if there are some prominent features in the feature set, all trees might end up being more similar. Hence, better to have random subset of features to be used during each split, so that all trees dont end up with the similar structure.
 
 
 Advantages :
