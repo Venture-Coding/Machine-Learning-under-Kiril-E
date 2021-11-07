@@ -10,3 +10,15 @@ The K-Fold approach involves randomly dividing the set of observations into k gr
 
 
 The result is measured as a mean of all individual accuracies. We also calculate the Variance to get an idea of the range of accuracies churned out by the model. Lower it is, the better!
+
+NOTES:
+
+The choice of k is usually 5 or 10, but there is no formal rule. As k gets larger, the difference in size between the training set and the resampling subsets gets smaller. As this difference decreases, the bias of the technique becomes smaller.
+
+— Page 70, Applied Predictive Modeling, 2013
+
+To summarize, there is a bias-variance trade-off associated with the choice of k in k-fold cross-validation. Typically, given these considerations, one performs k-fold cross-validation using k = 5 or k = 10, as these values have been shown empirically to yield test error rate estimates that suffer neither from excessively high bias nor from very high variance.
+
+— Page 184, An Introduction to Statistical Learning, 2013
+
+Hence, we have used k=10 in this example.
