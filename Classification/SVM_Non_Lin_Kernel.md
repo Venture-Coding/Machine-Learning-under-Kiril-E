@@ -17,6 +17,11 @@ Non linear Separator
 
 <img width="655" alt="Screenshot 2021-11-12 at 3 45 57 PM" src="https://user-images.githubusercontent.com/61674750/141450639-aa2c2c3d-6961-4428-81f4-bb1b7c11e311.png">
 
-The kernel used most widely is the Gaussian RBF Kernel.
+The kernel used most widely is the Gaussian RBF Kernel. (Radial Basis Function)
 
 <img width="699" alt="Screenshot 2021-11-12 at 3 35 48 PM" src="https://user-images.githubusercontent.com/61674750/141450719-7b6f062b-d3cb-4cbf-ae65-e19f51aeaffc.png">
+
+### Other Types of Kernel ###
+
+<img width="685" alt="Screenshot 2021-11-12 at 3 52 56 PM" src="https://user-images.githubusercontent.com/61674750/141451590-ca64ad00-02ff-41dc-ba7c-803fc7703cc9.png">
+
