@@ -23,5 +23,11 @@ The kernel used most widely is the Gaussian RBF Kernel. (Radial Basis Function)
 
 ### Other Types of Kernel ###
 
-<img width="685" alt="Screenshot 2021-11-12 at 3 52 56 PM" src="https://user-images.githubusercontent.com/61674750/141451590-ca64ad00-02ff-41dc-ba7c-803fc7703cc9.png">
+<img width="707" alt="Screenshot 2021-11-12 at 3 56 14 PM" src="https://user-images.githubusercontent.com/61674750/141451996-723c6ea0-6b07-4943-8df4-9e86df9ad5d7.png">
+
+Notes:  
+Check out 3D visualisations of various kernels using Julia.
+For more info. check out https://github.com/wesselb/mlkernels/tree/main/mlkernels/kernels for implementation 
+
+
 
