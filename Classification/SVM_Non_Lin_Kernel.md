@@ -1,4 +1,4 @@
-##SVM##  
+## SVM ##  
 
 The SVM Classifier which was earlier used for linearly separable classification can also be easily used for non-linearly separable classification.  
 While the linear classification looks very similar to a Log Reg classification, the real value of SVM lies in the fact that it makes use of Maximum Margin Classification. 
