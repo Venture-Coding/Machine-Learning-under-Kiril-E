@@ -37,6 +37,6 @@ Limitations:
 Only good at clustering spherically similar datapoints.  
 Poor job at clustering the data if the classes are supposedly distributed/clustered in any other type of geometric figures.  
 
-Example : (towardsdatascience.com)
+Example : (towardsdatascience.com).  
 <img width="688" alt="Screenshot 2021-11-16 at 6 51 15 PM" src="https://user-images.githubusercontent.com/61674750/141992873-eff3cc37-b489-408f-bb65-45aee0715cd9.png">
 
