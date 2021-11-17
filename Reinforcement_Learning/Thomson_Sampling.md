@@ -8,3 +8,8 @@ Works with probability distributions rather than being deterministic like the UC
 Comaprison of UCB vs Thomson Sampling:  
       
 <img width="689" alt="Screenshot 2021-11-17 at 3 16 23 PM" src="https://user-images.githubusercontent.com/61674750/142176906-a532ab7a-1ee3-41da-8e27-7712e1d8f717.png">
+  
+
+  
+Steps:  
+<img width="537" alt="Screenshot 2021-11-17 at 3 22 31 PM" src="https://user-images.githubusercontent.com/61674750/142177885-400e9965-7817-4eb5-9f0e-32992e0a1912.png">
