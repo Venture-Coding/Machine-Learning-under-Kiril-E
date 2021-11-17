@@ -6,15 +6,15 @@ The Multi-Armed Bandit problem is the often considered the motivation for the UC
   
   Given below are the intuitive steps behind UCB for maximizing the rewards in a MABP:  
   
-Step 1: Each machine is assumed to have a uniform Confidence Interval and a success distribution. This Confidence Interval is a margin of success rate distributions which is the most certain to consist of the actual success rate distribution of each machine which we are unaware of in the beginning.  
+  Step 1: Each machine is assumed to have a uniform Confidence Interval and a success distribution. This Confidence Interval is a margin of success rate distributions which is the most certain to consist of the actual success rate distribution of each machine which we are unaware of in the beginning.  
   
-Step 2: A machine is randomly chosen to play, as initially, they have all the same confidence Intervals.  
+  Step 2: A machine is randomly chosen to play, as initially, they have all the same confidence Intervals.  
   
-Step 3: Based on whether the machine gave a reward or not, the Confidence Interval shifts either towards or away from the actual success distribution and the also converges or shrinks as it has been explored thus resulting in the Upper bound value of the confidence Interval to also be reduced.  
+  Step 3: Based on whether the machine gave a reward or not, the Confidence Interval shifts either towards or away from the actual success distribution and the also converges or shrinks as it has been explored thus resulting in the Upper bound value of the confidence Interval to also be reduced.  
   
 Step 4: Based on the current Upper Confidence bounds of each of the machines, the one with the highest is chosen to explore in the next round.  
   
-Step 5: Steps 3 and 4 are continued until there are sufficient observations to determine the upper confidence bound of each machine.   The one with the highest upper confidence bound is the machine with the highest success rate.  
+  Step 5: Steps 3 and 4 are continued until there are sufficient observations to determine the upper confidence bound of each machine.   The one with the highest upper confidence bound is the machine with the highest success rate.  
   
     
 <img width="926" alt="Screenshot 2021-11-17 at 12 47 24 PM" src="https://user-images.githubusercontent.com/61674750/142153749-cb4c572f-6e97-49d1-8662-8be3be7e97d5.png">  
