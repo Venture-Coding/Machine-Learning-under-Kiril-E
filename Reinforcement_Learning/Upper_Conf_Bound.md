@@ -21,4 +21,4 @@ Initially, UCB explores more to systematically reduce uncertainty but its explor
 
 Assumption :  
 - Each ad has a fixed conversion rate in our model sample.  
-- 
+- Convergence needed in minimum rounds to optimize cost.
