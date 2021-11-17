@@ -1,11 +1,11 @@
 ## Upper Confidence Bound Algo ##
 
 
-<img width="926" alt="Screenshot 2021-11-17 at 12 47 24 PM" src="https://user-images.githubusercontent.com/61674750/142153749-cb4c572f-6e97-49d1-8662-8be3be7e97d5.png">
+<img width="926" alt="Screenshot 2021-11-17 at 12 47 24 PM" src="https://user-images.githubusercontent.com/61674750/142153749-cb4c572f-6e97-49d1-8662-8be3be7e97d5.png">  
+  
 
 
-
-A quick graphical explanation from geeksforgeeks.com (notations or ri replaced with Q.  
+A quick graphical explanation from geeksforgeeks.com (notations or ri replaced with Q).  
 
   The Upper Confidence Bound follows the principle of optimism in the face of uncertainty which implies that if we are uncertain about an action, we should optimistically assume that it is the correct action.  
 
