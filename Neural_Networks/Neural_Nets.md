@@ -1,3 +1,13 @@
+  
+    
+  
+Types of Gradient Descents :  
+i)   Batch GD  
+ii)  Stochastic GD  
+iii) Mini Batch GD (Combo)  
+
+  
+  
 Recommended Readings :  
 
 1.  Yann LeCun - Efficient Backprop (1998).  
