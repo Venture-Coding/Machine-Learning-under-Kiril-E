@@ -1,4 +1,4 @@
-  
+ ## Neural Networks ## 
     
   
 Types of Gradient Descents :  
@@ -6,7 +6,12 @@ i)   Batch GD
 ii)  Stochastic GD  
 iii) Mini Batch GD (Combo)  
 
-  
+### CNN ###  
+
+
+<img width="699" alt="Screenshot 2021-11-18 at 3 36 57 PM" src="https://user-images.githubusercontent.com/61674750/142394981-ad5cf594-e9c2-48a3-8e9e-d766ba96d011.png">
+
+
   
 Recommended Readings :  
 
@@ -19,5 +24,6 @@ Recommended Readings :
 7.  Jianxin Wu - Introduction to CNN (2017) [Intro Dive](https://cs.nju.edu.cn/wujx/paper/CNN.pdf)   
 8.  Kaiming He - Delving Deep into Rectifiers - Surpassing Human Level in ImageNet (2015) [Leaky ReLU](https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf).  
 9.  Dominik Scherer - Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition (2010) [[Pooling](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)]  
-10.  Visualize your CNN in this beautiful tool. [2D](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) and [3D](https://www.cs.ryerson.ca/~aharley/vis/conv/) visualization of Conv , Poolnig, Fully Connected Layers.
+10.  Visualize your CNN in this beautiful tool. [2D](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) and [3D](https://www.cs.ryerson.ca/~aharley/vis/conv/) visualization of Conv , Poolnig, Fully Connected Layers.  
+11.  Adit Deshpande - 9 Deep Learning Papers One Must Know About ([Check them out](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)) 
 
