@@ -18,4 +18,5 @@ Recommended Readings :
 6.  Jay Cuo - Understanding CNN with a Mathematical Model (2016) (Understand ReLU)    
 7.  Jianxin Wu - Introduction to CNN (2017)    
 8.  Kaiming He - Delving Deep into Rectifiers - Surpassing Human Level in ImageNet (2015) (Leaky ReLU).  
-9.  
+9.  Dominik Scherer - Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition (2010) [[Pooling](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)]
+
