@@ -18,5 +18,6 @@ Recommended Readings :
 6.  Jay Cuo - Understanding CNN with a Mathematical Model (2016) ([Understand ReLU](https://arxiv.org/pdf/1609.04112.pdf))    
 7.  Jianxin Wu - Introduction to CNN (2017) [Intro Dive](https://cs.nju.edu.cn/wujx/paper/CNN.pdf)   
 8.  Kaiming He - Delving Deep into Rectifiers - Surpassing Human Level in ImageNet (2015) [Leaky ReLU](https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf).  
-9.  Dominik Scherer - Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition (2010) [[Pooling](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)]
+9.  Dominik Scherer - Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition (2010) [[Pooling](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)]  
+10.  Visualize your CNN in this beautiful tool. [2D](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) and [3D](https://www.cs.ryerson.ca/~aharley/vis/conv/) visualization
 
