@@ -25,5 +25,5 @@ Recommended Readings :
 8.  Kaiming He - Delving Deep into Rectifiers - Surpassing Human Level in ImageNet (2015) [Leaky ReLU](https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf).  
 9.  Dominik Scherer - Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition (2010) [[Pooling](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)]  
 10.  Visualize your CNN in this beautiful tool. [2D](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) and [3D](https://www.cs.ryerson.ca/~aharley/vis/conv/) visualization of Conv , Poolnig, Fully Connected Layers.  
-11.  Adit Deshpande - 9 Deep Learning Papers One Must Know About ([Check them out](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)) 
+11.  Adit Deshpande (UCLA CS'19) - 9 Deep Learning Papers One Must Know About ([Check them out](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)) 
 
