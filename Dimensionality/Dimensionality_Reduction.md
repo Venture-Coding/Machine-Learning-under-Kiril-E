@@ -22,4 +22,13 @@ v)   Autoencoders
   
   
 Dimensionality reduction is common in fields that deal with large numbers of observations and/or large numbers of variables, such as signal processing, speech recognition, neuroinformatics, and bioinformatics.  
-
+  
+Feature selection Filter methdods :   
+- LDA
+- ANOVA  
+- Chi Square  
+  
+Feature selection Wrapper methdods :    
+- Frwd Selection  
+- Bkwd Selection  
+- Recursive feature selection
