@@ -25,7 +25,7 @@ Dimensionality reduction is common in fields that deal with large numbers of obs
   
 Feature selection Filter methdods :   
 - LDA
-- ANOVA  
+- ANOVA f-test  
 - Chi Square  
   
 Feature selection Wrapper methdods :    
